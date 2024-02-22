@@ -1,0 +1,11 @@
+* <font color=blue><b>友情链接</b></font>
+  * [在线服务器地图](http://map.morp.cc/)
+  * [Minecraft中文维基](https://minecraft.fandom.com/zh/wiki/Minecraft_Wiki)
+  * [HaiseLiu的BiliBili空间](https://space.bilibili.com/381479771)
+  * [MC百科找服玩](https://play.mcmod.cn/)
+  * [MCBBS宣传贴](https://www.mcbbs.net/)
+  * [爱发电](https://google.com)
+  * [HMCL启动器](http://ci.huangyuhui.net/job/HMCL/)
+  * [PCL启动器](https://afdian.net/p/0164034c016c11ebafcb52540025c377)
+  * [Minecraft Heads](https://minecraft-heads.com/)
+  * [NameMC](https://namemc.com/)
