@@ -19,15 +19,15 @@
 
 从群文件下载得到 `.exe` 格式的文件之后，双击打开它（如果提示安全警告就选择 **是**）。
 
-![下载Java时Windows的提示](pics/java1.png)
+![下载Java时Windows的提示](pics/java/java1.png)
 
 按照界面上的提示一步步操作，直到提示完成安装。
 
-![安装Java的界面](pics/java2.png)
+![安装Java的界面](pics/java/java2.png)
 
-![安装Java中](pics/java3.png)
+![安装Java中](pics/java/java3.png)
 
-![完成安装Java](pics/java4.png)
+![完成安装Java](pics/java/java4.png)
 
 + **Mac OS平台玩家**
 
